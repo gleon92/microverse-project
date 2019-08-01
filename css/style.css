@@ -1,4 +1,10 @@
-a {
+#img-div{
+    width: 320px;
+    height: 380px;
+    align-content: center;
+}
+
+#image {
     max-width: 100%;
-    
+    display: block;
 }
